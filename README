@@ -1,0 +1,26 @@
+Asteroids clone in C++ and SDL
+
+A remake of the classic Asteroids game
+
+Controls
+[UP] : Thrust forward in facing direction
+[LEFT] : Rotate left
+[RIGHT]: Rotate right
+[DOWN] : Teleport spaceship
+[SPACE] : Shoot
+[ESC] : Quit the game
+
+Dependencies
+
+This game requires SDL, SDL_image, and SDL_ttf.
+
+
+Project tested on ubuntu 18.04
+
+Compilation
+
+make
+
+Execution
+
+./main
